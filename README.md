@@ -1,1 +1,3 @@
-# simplism
+# Simplism
+
+> 🚧 WIP
